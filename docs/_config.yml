@@ -23,8 +23,8 @@ email: https://www.womeninai.co
 description: >- # this means to ignore newlines until "baseurl:"
   Blog post that desecribes the work done by Monsurat Oluwatosin, Pallavi Kale, Bhakti Chauhan and Onyinye Chudi-Iwueze on the QA Chatbot for Women In AI Learn August 2020 Edition.
 
-baseurl: /nlp-wai # the subpath of your site, e.g. /blog
-url: http://Onyinyechukwu.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: http://Onyinyechukwu.github.io # the bsase hostname & protocol for your site, e.g. http://example.com
 #twitter_username: https://www.womeninai.co
 github_username:  women-in-ai-ireland
 
